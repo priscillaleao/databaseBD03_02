@@ -1,0 +1,11 @@
+cardapio ok 
+pedido ok 
+bairro ok 
+cliente ok 
+funcionarios   
+pizza
+entregador
+ingredientes
+
+
+
